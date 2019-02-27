@@ -1,13 +1,13 @@
 {
-  "main.css": "/static/css/main.54f827f6.chunk.css",
-  "main.js": "/static/js/main.1864a1bd.chunk.js",
-  "main.js.map": "/static/js/main.1864a1bd.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.fdfcfda2.js",
-  "runtime~main.js.map": "/static/js/runtime~main.fdfcfda2.js.map",
-  "static/js/2.b44c71ea.chunk.js": "/static/js/2.b44c71ea.chunk.js",
-  "static/js/2.b44c71ea.chunk.js.map": "/static/js/2.b44c71ea.chunk.js.map",
-  "index.html": "/index.html",
-  "precache-manifest.8edc1270a98680df579ac21cd2cb53d2.js": "/precache-manifest.8edc1270a98680df579ac21cd2cb53d2.js",
-  "service-worker.js": "/service-worker.js",
-  "static/css/main.54f827f6.chunk.css.map": "/static/css/main.54f827f6.chunk.css.map"
+  "main.css": "/melp-app/static/css/main.54f827f6.chunk.css",
+  "main.js": "/melp-app/static/js/main.1b128351.chunk.js",
+  "main.js.map": "/melp-app/static/js/main.1b128351.chunk.js.map",
+  "runtime~main.js": "/melp-app/static/js/runtime~main.b5154d7d.js",
+  "runtime~main.js.map": "/melp-app/static/js/runtime~main.b5154d7d.js.map",
+  "static/js/2.98736a4f.chunk.js": "/melp-app/static/js/2.98736a4f.chunk.js",
+  "static/js/2.98736a4f.chunk.js.map": "/melp-app/static/js/2.98736a4f.chunk.js.map",
+  "index.html": "/melp-app/index.html",
+  "precache-manifest.10e37fcf168715fb1eab3cfefd697be1.js": "/melp-app/precache-manifest.10e37fcf168715fb1eab3cfefd697be1.js",
+  "service-worker.js": "/melp-app/service-worker.js",
+  "static/css/main.54f827f6.chunk.css.map": "/melp-app/static/css/main.54f827f6.chunk.css.map"
 }
